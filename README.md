@@ -10,8 +10,8 @@
 3. GPIO file (.csv, Export with "First data iterm's time" **  )
 ##################################################################################################
 
-Make Sure the data length is the same.  (eg 48001)
-for [Length of cell],  [GPIO_Corrected_FramesImaged] 
+Make Sure the data length is the same for [Length of cell],  [GPIO_Corrected_FramesImaged]  (eg 48001)
+
 
 ![Fig_1](https://github.com/user-attachments/assets/e441cc5e-1c54-4139-bc69-976f21b23e41)
 
