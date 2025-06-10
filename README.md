@@ -1,7 +1,13 @@
 
 
+# P6_3
+# 5_Sec_Alignment (Adjusting Arduino Timestamp to GPIO )
 
-# 5_Sec_Alignment!
+# use CAIMAN environmnet
+
+# Need
+1. Arudino text file
+2. 
 ##################################################################################################
 
 Make Sure the data length is the same.  
