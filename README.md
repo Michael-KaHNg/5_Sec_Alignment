@@ -1,7 +1,12 @@
+
+
+
+# 5_Sec_Alignment!
+##################################################################################################
+
 Make Sure the data length is the same.  
 
-
-# 5_Sec_Alignment![Fig_1](https://github.com/user-attachments/assets/e441cc5e-1c54-4139-bc69-976f21b23e41)
+[Fig_1](https://github.com/user-attachments/assets/e441cc5e-1c54-4139-bc69-976f21b23e41)
 
 ##################################################################################################
 
