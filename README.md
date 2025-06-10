@@ -1,13 +1,13 @@
 
 
-# P6_3
-# 5_Sec_Alignment (Adjusting Arduino Timestamp to GPIO )
 
+# 5_Sec_Alignment (Adjust Arduino Timestamp to GPIO) [P6_3]
 # use CAIMAN environmnet
 
 # Need
-1. Arudino text file
-2. 
+1. Arudino behavioral text file (.txt)
+2. HDF5 file (.hdf5)
+3. GPIO file (.csv, Export with "First data iterm's time" **  )
 ##################################################################################################
 
 Make Sure the data length is the same.  
