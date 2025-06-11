@@ -58,6 +58,10 @@ The reference is default to [Trial Initiation], but can be chaanged to others [e
 Length of cells does not match length of GPIO 
 
 ![Trouble_02](https://github.com/user-attachments/assets/a74f892b-02b6-4a41-b35b-0a64084ae82c)
+##################################################################################################
+# Unstable Power connection (Arduino -> brain recording) causing a disrubtion in both the 5s Pulse and the disrupting the trigger for data acqusition 
+
+![Trouble_03](https://github.com/user-attachments/assets/6e6e97ae-b1dc-46cf-a663-1f63ab2a76d7)
 
 
 ##################################################################################################
