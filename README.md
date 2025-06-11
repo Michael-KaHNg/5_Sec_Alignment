@@ -61,16 +61,18 @@ Length of cells does not match length of GPIO
 ##################################################################################################
 # Unstable Power connection (Arduino -> brain recording) causing a disrubtion in both the 5s Pulse and the disrupting the trigger for data acqusition
 
-![Trouble_03](https://github.com/user-attachments/assets/076e3ddc-ea0f-4335-b777-7f7180eaaf3c)
+![Trouble_03](https://github.com/user-attachments/assets/5b923b70-8f16-4fc3-8591-85dda8f5fe23)
 
 ##################################################################################################
 # Unstable Power connection (Arduino -> brain recording) causing a disrubtion in both the 5s Pulse BUT data acquisition is uninterrupted 
+
 
 ##################################################################################################
 # Wrong Arduino or GPIO file
 
 ![Trouble_01](https://github.com/user-attachments/assets/97aaba34-52e0-403e-86e8-5125beadf46e)
 ##################################################################################################
+
 
 
 
