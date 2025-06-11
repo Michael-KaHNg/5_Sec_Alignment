@@ -1,7 +1,7 @@
 
 
 
-# 5_Sec_Alignment (Adjust Arduino Timestamp to GPIO) [P6_3]
+# 5_Sec_Alignment (Adjust Arduino Timestamp to GPIO) [P6_3] [Example file:  DS12-P6_3-S1]
 # use CAIMAN environmnet
 
 # Need
