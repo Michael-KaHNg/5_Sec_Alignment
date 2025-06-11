@@ -77,7 +77,7 @@ The last 5s pulse is actually an "off" pulse, don't forget to count this when pr
 # Example Misaligned Data
 Misaligned data will a show consistent deviation across trials (Top Right). 
 Correctly aligned data ususally have cells that respond consistently to some events.  
-(eg. This cell showed responses to both the trial initiation (Top Left) and the retrieval of reward (black dot)(Bottom Left))
+(eg. This cell showed responses to both the trial initiation (Top Left) and to the retrieval of reward (black dot)(Bottom Left))
 
 
 ![Trouble_12](https://github.com/user-attachments/assets/4502bd1f-590f-403d-97fa-adc4f082a918)
