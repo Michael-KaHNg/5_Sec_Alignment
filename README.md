@@ -75,8 +75,16 @@ SOLUTION: The program looks for the longest duration in the GPIO and assumes tha
 
 ![Solution_2](https://github.com/user-attachments/assets/4fd929ed-7813-4b1a-a4b0-f698299fcbc2)
 
-
 Solution:  The program has built in repair of the 5s pulse.  "Inter_Event_Threshold = X "  means that any "undesirable"  activities in the first X seconds of the 5s pulse would be ignore.  Check "Ka Corrected_Binary" graph to see if it gets fixed.   
+##################################################################################################
+# Someone accidently restarted data acqusition again (Need to remove the excess data at the end)
+
+![Trouble_05](https://github.com/user-attachments/assets/28ff4257-3810-4753-a017-ca425a9f5902)
+![Solution_03](https://github.com/user-attachments/assets/f49abe2a-e974-4ed2-a9f1-86fc0aead086)
+
+##################################################################################################
+
+
 ##################################################################################################
 # Wrong Arduino or GPIO file
 
