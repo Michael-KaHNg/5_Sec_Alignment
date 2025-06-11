@@ -22,15 +22,20 @@
 ![Fig_2](https://github.com/user-attachments/assets/c94090c5-7026-43c2-9bd4-4766f717d705)
 
 ##################################################################################################
-# The 5s pulse duration should be very close to 5s (Top) 
-# and within the red lines (bottom) 
+# The 5s pulse duration should be very close to 5s (Top) and within the red lines (bottom) 
 
-If there are points outside the two red lines (> 10,000 ms or < 2,500 ms ), the pulses are not detecting correctly.   
-You will need to check the 5s pulse graph to adjust the threshold for 5 second pluse detections. 
+If there are points outside the two red lines (> 10,000 ms or < 2,500 ms ), the 5s pulses are not detecting correctly.   
+You will need to check the 5s pulse graph to adjust the threshold for 5s pluse detections. 
 
 ![Fig_3](https://github.com/user-attachments/assets/89543b06-55d4-4bbc-86fc-0aef0fe8c96e)
 
+##################################################################################################
+# Median of all cells. 
+POPULATIONS of Neural data are usually aigned to some behavioral events. 
+The reference is default to [Trial Initiation], but can be chaanged to others [eg Reward Delivery]
 ![Fig_5](https://github.com/user-attachments/assets/a4c0e486-538f-429d-942b-c880c0a5ffba)
+
+##################################################################################################
 ![Fig_6](https://github.com/user-attachments/assets/495f7c8f-fb55-40f2-91a9-c968b173f7b5)
 ![Fig_7](https://github.com/user-attachments/assets/4ee8d177-c37e-4777-8358-86e1c22d1646)
 ![Fig_8](https://github.com/user-attachments/assets/6e3ca1a7-2cf7-47c9-85f6-04ed1848a367)
