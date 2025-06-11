@@ -84,8 +84,6 @@ Solution:  The program has built in repair of the 5s pulse.  "Inter_Event_Thresh
 
 ##################################################################################################
 
-
-##################################################################################################
 # Wrong Arduino or GPIO file
 
 ![Trouble_01](https://github.com/user-attachments/assets/97aaba34-52e0-403e-86e8-5125beadf46e)
@@ -95,7 +93,7 @@ Solution:  The program has built in repair of the 5s pulse.  "Inter_Event_Thresh
 
 
 ##################################################################################################
-# Minor Note For Future Alignment Scirpt
+# Minor Notes For Future Alignment Scirpt
 The last 5s pulse is actually an "off" pulse, don't forget to count this when programming new alignmnet script in the future
 
 ![Trouble_10](https://github.com/user-attachments/assets/3ada82a2-71cf-48b9-9543-2cb3e8f05e4b)
