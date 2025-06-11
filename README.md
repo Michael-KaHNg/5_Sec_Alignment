@@ -61,10 +61,19 @@ Length of cells does not match length of GPIO
 
 
 ##################################################################################################
+# Wrong Arduino or GPIO file
+
+![Trouble_01](https://github.com/user-attachments/assets/97aaba34-52e0-403e-86e8-5125beadf46e)
+##################################################################################################
 
 
 
+##################################################################################################
+# Minor Note
+The last 5s pulse is actually an "off" pulse, don't forget to count this when programming new alignmnet script in the future
 
+![Trouble_10](https://github.com/user-attachments/assets/3ada82a2-71cf-48b9-9543-2cb3e8f05e4b)
+##################################################################################################
 
 
 
