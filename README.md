@@ -4,7 +4,7 @@
 # 5_Sec_Alignment (Adjust Arduino Timestamp to GPIO) [P6_3] [Example file:  DS12-P6_3-S1]
 # use CAIMAN environmnet
 
-# Need
+# Need 3 data files 
 1. Arudino behavioral text file (.txt)
 2. HDF5 file (.hdf5)
 3. GPIO file (.csv, Export with "First data iterm's time" **  )
@@ -45,3 +45,26 @@ The reference is default to [Trial Initiation], but can be chaanged to others [e
 ![Fig_6](https://github.com/user-attachments/assets/495f7c8f-fb55-40f2-91a9-c968b173f7b5)
 ![Fig_7](https://github.com/user-attachments/assets/4ee8d177-c37e-4777-8358-86e1c22d1646)
 ![Fig_8](https://github.com/user-attachments/assets/6e3ca1a7-2cf7-47c9-85f6-04ed1848a367)
+
+
+
+##################################################################################################
+##################################################################################################
+# Troubleshoot Common Issues
+
+##################################################################################################
+##################################################################################################
+# Wrong Hdf5 file 
+Length of cells does not match length of GPIO 
+
+![Trouble_02](https://github.com/user-attachments/assets/a74f892b-02b6-4a41-b35b-0a64084ae82c)
+
+
+##################################################################################################
+
+
+
+
+
+
+
