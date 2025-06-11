@@ -63,6 +63,10 @@ Length of cells does not match length of GPIO
 
 ![Trouble_03](https://github.com/user-attachments/assets/5b923b70-8f16-4fc3-8591-85dda8f5fe23)
 
+![solution_01](https://github.com/user-attachments/assets/46f93a5a-bb02-4fb9-8304-e0d4c422bef2)
+
+SOLUTION: The program looks for the longest duration in the GPIO and assumes that's the imaging window. Uncommend this section of the code to manually set the imaging time window based on timestamps from the timestamp table (bottom). 
+
 ##################################################################################################
 # Unstable Power connection (Arduino -> brain recording) causing a disrubtion in the 5s Pulse BUT data acquisition is uninterrupted 
 
