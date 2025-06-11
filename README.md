@@ -69,11 +69,17 @@ Length of cells does not match length of GPIO
 
 
 ##################################################################################################
-# Minor Note
+# Minor Note For Future Alignment Scirpt
 The last 5s pulse is actually an "off" pulse, don't forget to count this when programming new alignmnet script in the future
 
 ![Trouble_10](https://github.com/user-attachments/assets/3ada82a2-71cf-48b9-9543-2cb3e8f05e4b)
 ##################################################################################################
+# Example Misaligned Data
+Misaligned data will a show consistent deviation across trials (Top Right). 
+Correctly aligned data ususally have cells that respond consistently to some events.  
+(eg. When filtered by rewarded trials,  this cell showed responses to the retrieval of reward (black dot)(Bottom Left))
 
+
+![Trouble_12](https://github.com/user-attachments/assets/4502bd1f-590f-403d-97fa-adc4f082a918)
 
 
