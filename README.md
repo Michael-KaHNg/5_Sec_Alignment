@@ -25,7 +25,7 @@
 # The 5s pulse duration should be very close to 5s (Top) 
 # and within the red lines (bottom) 
 
-If there are points outside the two red lines (> 10s or < 2.5s ), the pulses are not detecting correctly.   
+If there are points outside the two red lines (> 10,000 ms or < 2,500 ms ), the pulses are not detecting correctly.   
 You will need to check the 5s pulse graph to adjust the threshold for 5 second pluse detections. 
 
 ![Fig_3](https://github.com/user-attachments/assets/89543b06-55d4-4bbc-86fc-0aef0fe8c96e)
