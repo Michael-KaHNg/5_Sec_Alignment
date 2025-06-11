@@ -22,6 +22,7 @@
 ![Fig_2](https://github.com/user-attachments/assets/c94090c5-7026-43c2-9bd4-4766f717d705)
 
 ##################################################################################################
+# The 5s pulse duration should be very close to 5s (Top) and within the red lines (bottom) 
 ![Fig_3](https://github.com/user-attachments/assets/89543b06-55d4-4bbc-86fc-0aef0fe8c96e)
 
 ![Fig_5](https://github.com/user-attachments/assets/a4c0e486-538f-429d-942b-c880c0a5ffba)
