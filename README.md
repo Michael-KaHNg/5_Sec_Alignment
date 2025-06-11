@@ -18,8 +18,10 @@
 ![Fig_1](https://github.com/user-attachments/assets/e441cc5e-1c54-4139-bc69-976f21b23e41)
 
 ##################################################################################################
-
+# Check that you have the right files.  The IR data (bottom) should match up between GPIO and Arduino
 ![Fig_2](https://github.com/user-attachments/assets/c94090c5-7026-43c2-9bd4-4766f717d705)
+
+##################################################################################################
 ![Fig_3](https://github.com/user-attachments/assets/89543b06-55d4-4bbc-86fc-0aef0fe8c96e)
 
 ![Fig_5](https://github.com/user-attachments/assets/a4c0e486-538f-429d-942b-c880c0a5ffba)
