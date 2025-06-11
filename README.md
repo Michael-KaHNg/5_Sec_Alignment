@@ -63,7 +63,8 @@ Length of cells does not match length of GPIO
 
 ![Trouble_03](https://github.com/user-attachments/assets/5b923b70-8f16-4fc3-8591-85dda8f5fe23)
 
-![solution_01](https://github.com/user-attachments/assets/46f93a5a-bb02-4fb9-8304-e0d4c422bef2)
+![solution_01](https://github.com/user-attachments/assets/1d0a7197-add6-4f82-813b-96a53e438c47)
+
 
 SOLUTION: The program looks for the longest duration in the GPIO and assumes that's the imaging window. Uncommend this section of the code to manually set the imaging time window based on timestamps from the timestamp table (bottom). 
 
@@ -72,6 +73,10 @@ SOLUTION: The program looks for the longest duration in the GPIO and assumes tha
 
 ![Trouble_04](https://github.com/user-attachments/assets/7b2b261e-c655-4f45-a256-8e3ee19801d6)
 
+![Solution_2](https://github.com/user-attachments/assets/4fd929ed-7813-4b1a-a4b0-f698299fcbc2)
+
+
+Solution:  The program has built in repair of the 5s pulse.  "Inter_Event_Threshold = X "  means that any "undesirable"  activities in the first X seconds of the 5s pulse would be ignore.  Check "Ka Corrected_Binary" graph to see if it gets fixed.   
 ##################################################################################################
 # Wrong Arduino or GPIO file
 
