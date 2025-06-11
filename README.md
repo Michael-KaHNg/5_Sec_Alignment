@@ -12,7 +12,7 @@
 # Check Alignmnet Results
 
 1. Make Sure the data length is the same for [Length of cell] AND [GPIO_Corrected_FramesImaged]  (eg 48001)
-2. [Actual number of 5s pulse] should be 480
+2. [Actual number of 5s pulse] should be 480 in a 40 minute imaging session 
 3. The numbers of Start/End, ON/OFF, IN/OUT timestamps should match up
 
 ![Fig_1](https://github.com/user-attachments/assets/e441cc5e-1c54-4139-bc69-976f21b23e41)
