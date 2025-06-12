@@ -40,7 +40,7 @@ The reference is default to [Trial Initiation], but can be chaanged to others [e
 # Individual Cells
 
 Individual cells are usually aigned to some behavioral events. 
-The reference is default to [Trial Initiation], but can be chaanged to others [eg. Reward Delivery]
+The reference is default to [Trial Initiation], but can be changed to others [eg. Reward Delivery]
 
 ![Fig_6](https://github.com/user-attachments/assets/495f7c8f-fb55-40f2-91a9-c968b173f7b5)
 ![Fig_7](https://github.com/user-attachments/assets/4ee8d177-c37e-4777-8358-86e1c22d1646)
