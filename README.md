@@ -32,7 +32,7 @@ You will need to check the 5s pulse graph to adjust the threshold for 5s pluse d
 ##################################################################################################
 # Median of all cells. 
 The POPULATION signal of neural data is usually aigned to some behavioral events. 
-The reference is default to [Trial Initiation], but can be chaanged to others [eg. Reward Delivery]
+The reference is default to [Trial Initiation], but can be changed to others [eg. Reward Delivery]
 
 ![Fig_5](https://github.com/user-attachments/assets/a4c0e486-538f-429d-942b-c880c0a5ffba)
 
