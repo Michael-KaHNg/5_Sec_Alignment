@@ -91,6 +91,13 @@ Solution:  The program has built-in repairs of the 5s pulse.  "Inter_Event_Thres
 ![Trouble_01](https://github.com/user-attachments/assets/97aaba34-52e0-403e-86e8-5125beadf46e)
 ##################################################################################################
 
+# Arduion nummber of pulse does not match with GPIO
+
+![Trouble_06](https://github.com/user-attachments/assets/44e9af90-6961-4a51-bec7-31c1db8a711f)
+
+![Solution_06](https://github.com/user-attachments/assets/96fff8bd-5eef-4ad7-a02e-787c150a7c74)
+
+Most likely the Arduino file is not printed correctly (Right file).  Sometimes duplicated information gets printed.  Just delete the extra lines in the arduino file. 
 
 
 
