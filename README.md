@@ -61,6 +61,8 @@ Length of cells does not match length of GPIO
 ##################################################################################################
 # Unstable Power connection (Arduino -> brain recording) disrupting BOTH the 5s Pulse and the trigger for data acqusition
 
+During data acquisition , there will be one GPIO file, but multiple Hdf5 files because of the connection disruption
+
 ![Trouble_03](https://github.com/user-attachments/assets/5b923b70-8f16-4fc3-8591-85dda8f5fe23)
 
 ![solution_01](https://github.com/user-attachments/assets/1d0a7197-add6-4f82-813b-96a53e438c47)
